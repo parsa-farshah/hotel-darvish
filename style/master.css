@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "estedad";
+  src: url(../fonts/Estedad-Regular.ttf);
+}
+
+body {
+  font-family: "estedad";
+}
+
+/* npx @tailwindcss/cli -i ./src/style/master.css -o ./src/style/output.css --watch */
+
+@layer utilities {
+  .favColor {
+    @apply bg-[#7c6f55];
+  }
+  .txtFavColor {
+    @apply text-[#7c6f55];
+  }
+  .animeStar1 {
+    animation: animeStar1 0.2s linear alternate;
+  }
+  .animeStar2 {
+    animation: animeStar2 0.2s 0.2s linear alternate;
+  }
+  .animeStar3 {
+    animation: animeStar2 0.2s 0.4s linear alternate;
+  }
+  .animeStar4 {
+    animation: animeStar2 0.2s 0.6s linear alternate;
+  }
+  .animeStar5 {
+    animation: animeStar2 0.2s 0.8s linear alternate;
+  }
+  .slider-container {
+    animation: slider-container 10s linear infinite;
+  }
+}
+
+@keyframes animeStar1 {
+  0% {
+    transform: scale(0.6);
+  }
+  50% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes animeStar2 {
+  0% {
+    transform: scale(0.6);
+  }
+  50% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes animeStar3 {
+  0% {
+    transform: scale(0.6);
+  }
+  50% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes animeStar4 {
+  0% {
+    transform: scale(0.6);
+  }
+  50% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes animeStar5 {
+  0% {
+    transform: scale(0.6);
+  }
+  50% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes slider-container {
+  0%,
+  30% {
+    transform: translateX(0%);
+  }
+  36%,
+  60% {
+    transform: translateX(100%);
+  }
+  66%,
+  99% {
+    transform: translateX(200%);
+  }
+  99.9999999999999999999% {
+    transform: translateX(0%);
+  }
+}
