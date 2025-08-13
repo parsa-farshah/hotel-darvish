@@ -316,6 +316,15 @@
   .w-32 {
     width: calc(var(--spacing) * 32);
   }
+  .w-\[32\%\] {
+    width: 32%;
+  }
+  .w-\[45\%\] {
+    width: 45%;
+  }
+  .w-\[48\%\] {
+    width: 48%;
+  }
   .w-\[49\%\] {
     width: 49%;
   }
@@ -692,6 +701,11 @@
   .md\:w-\[45\%\] {
     @media (width >= 48rem) {
       width: 45%;
+    }
+  }
+  .md\:w-\[48\%\] {
+    @media (width >= 48rem) {
+      width: 48%;
     }
   }
   .md\:w-\[60\%\] {
