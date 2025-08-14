@@ -43,6 +43,17 @@ body {
   .slider-container {
     animation: slider-container 10s linear infinite;
   }
+  .slider {
+    animation: slide 20s linear infinite;
+  }
+}
+@keyframes slide {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-10%);
+  }
 }
 
 @keyframes animeStar1 {
