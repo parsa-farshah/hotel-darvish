@@ -658,19 +658,21 @@
         </div>
       </section>
       <!------------------------- section 6 ------------------------------------->
-      <section class="w-full bg-[#1c1c1c] px-3 py-24">
-        <h5 class="txtFavColor text-[15px]">هتل مجلل درویشی</h5>
-        <h6 class="text-white text-3xl mt-2.5">خدمات ما</h6>
+      <section
+        class="w-full bg-[#1c1c1c] px-3 py-24 md:flex md:flex-wrap md:px-[10%] md:justify-between"
+      >
+        <h5 class="txtFavColor w-full text-[15px]">هتل مجلل درویشی</h5>
+        <h6 class="text-white w-full text-3xl mt-2.5">خدمات ما</h6>
         <!-- cards -->
-        <!-- رزرواسیون شبانه روزی -->
+        <!--------------------------------- رزرواسیون شبانه روزی --------->
         <div
           id="btn1"
-          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 mt-8"
+          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 md:w-[31%] md:h-[450px] lg:h-[400px] xl:h-[300px] md:flex md:flex-col mt-8 md:p-4 md:gap-4"
         >
           <div class="flex justify-between items-center">
             <!------------------------ img and text ----------------->
-            <div class="flex items-center gap-3">
-              <figure class="w-10 h-10">
+            <div class="flex items-center gap-3 md:flex-col md:items-start">
+              <figure class="w-10 h-10 md:w-[60px] md:h-[60px]">
                 <img
                   class="w-full h-full"
                   src="images/24_hours_gold.png"
@@ -679,13 +681,16 @@
               </figure>
               <div class="flex flex-col">
                 <span class="txtFavColor">رزرواسیون شبانه روزی</span>
-                <span class="text-[17px] text-[#adadad]">آرامش، دردسترس</span>
+                <span
+                  class="text-[17px] text-[#adadad] md:text-white md:text-[22px] md:mt-3"
+                  >آرامش، دردسترس</span
+                >
               </div>
             </div>
             <!-------------------------------------- drop down -------------------->
             <figure
               id="dropDown1"
-              class="w-5 h-2.5 m-3 cursor-pointer duration-300"
+              class="w-5 h-2.5 m-3 cursor-pointer duration-300 md:hidden"
             >
               <img
                 class="w-full h-full"
@@ -697,22 +702,22 @@
           <!-- text paragraph -->
           <p
             id="firstP"
-            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-100 ease-linear"
+            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-100 ease-linear md:opacity-100 md:mt-0"
           >
             هر لحظه از شبانه‌روز و هر روز هفته، فرصت دارید تا اقامت خود را به
             آسانی و با چند کلیک، به دنیای لوکس و آرام هتل مجلل درویشی پیوند
             بزنید.
           </p>
         </div>
-        <!-- ترانسفر -->
+        <!-------------------------------------- ترانسفر -------------------->
         <div
           id="btn2"
-          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 mt-8"
+          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 md:w-[31%] md:h-[450px] lg:h-[400px] xl:h-[300px] md:flex md:flex-col mt-8 md:p-4 md:gap-4"
         >
           <div class="flex justify-between items-center">
             <!------------------------ img and text ----------------->
-            <div class="flex items-center gap-3">
-              <figure class="w-10 h-10">
+            <div class="flex items-center gap-3 md:flex-col md:items-start">
+              <figure class="w-10 h-10 md:w-[60px] md:h-[60px]">
                 <img
                   class="w-full h-full"
                   src="images/transfer_gold.png"
@@ -721,13 +726,17 @@
               </figure>
               <div class="flex flex-col">
                 <span class="txtFavColor">ترانسفر</span>
-                <span class="text-[17px] text-[#adadad]"
+                <span
+                  class="text-[17px] text-[#adadad] md:text-white md:text-[22px] md:mt-3"
                   >یک مسیر بی دغدغه
                 </span>
               </div>
             </div>
             <!-------------------------------------- drop down -------------------->
-            <figure id="dropDown2" class="w-5 h-2.5 m-3 cursor-pointer">
+            <figure
+              id="dropDown2"
+              class="w-5 h-2.5 m-3 cursor-pointer md:hidden"
+            >
               <img
                 class="w-full h-full"
                 src="images/formkit_down_gold.png"
@@ -738,7 +747,7 @@
           <!-- text paragraph -->
           <p
             id="secondP"
-            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-100 ease-linear"
+            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-100 ease-linear md:opacity-100 md:mt-0"
           >
             همسفر شما خواهیم بود تا در سفری معنوی و بی‌همتا، شما را همراهی کنیم.
             به پاس وفاداری شما، ترانسفر هتل مجلل درویشی با افتخار، شما را تا
@@ -746,15 +755,15 @@
             خاطره‌ای بی‌مانند تبدیل شود.
           </p>
         </div>
-        <!-- صبحانه -->
+        <!-------------------------- صبحانه ------------------------------------>
         <div
           id="btn3"
-          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 mt-8"
+          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 md:w-[31%] md:h-[450px] lg:h-[400px] xl:h-[300px] md:flex md:flex-col mt-8 md:p-4 md:gap-4"
         >
           <div class="flex justify-between items-center">
             <!------------------------ img and text ----------------->
-            <div class="flex items-center gap-3">
-              <figure class="w-10 h-10">
+            <div class="flex items-center gap-3 md:flex-col md:items-start">
+              <figure class="w-10 h-10 md:w-[60px] md:h-[60px]">
                 <img
                   class="w-full h-full"
                   src="images/coffee_gold.png"
@@ -763,11 +772,17 @@
               </figure>
               <div class="flex flex-col">
                 <span class="txtFavColor">صبحانه</span>
-                <span class="text-[17px] text-[#adadad]">طلوع طعم ها</span>
+                <span
+                  class="text-[17px] text-[#adadad] md:text-white md:text-[22px] md:mt-3"
+                  >طلوع طعم ها</span
+                >
               </div>
             </div>
             <!-------------------------------------- drop down -------------------->
-            <figure id="dropDown3" class="w-5 h-2.5 m-3 cursor-pointer">
+            <figure
+              id="dropDown3"
+              class="w-5 h-2.5 m-3 cursor-pointer md:hidden"
+            >
               <img
                 class="w-full h-full"
                 src="images/formkit_down_gold.png"
@@ -778,33 +793,37 @@
           <!-- text paragraph -->
           <p
             id="breakFastP"
-            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-300 ease-linear"
+            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-300 ease-linear md:opacity-100 md:mt-0"
           >
             هر صبح با طلوع آفتاب، هتل مجلل درویشی شما را به ضیافتی از طعم‌های
             دلپذیر دعوت می‌کند. در آرامش صبحگاهی و فضایی دلنشین، از لحظات
             صبحگاهی خود لذت ببرید و روزتان را با انرژی و نشاطی نو آغاز کنید.
           </p>
         </div>
-        <!-- روم سرویس -->
+        <!----------------------------------- روم سرویس --------------------------->
         <div
           id="btn4"
-          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 mt-8"
+          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 md:w-[31%] md:h-[450px] lg:h-[400px] xl:h-[300px] md:flex md:flex-col mt-8 md:p-4 md:gap-4"
         >
           <div class="flex justify-between items-center">
             <!------------------------ img and text ----------------->
-            <div class="flex items-center gap-3">
-              <figure class="w-10 h-10">
+            <div class="flex items-center gap-3 md:flex-col md:items-start">
+              <figure class="w-10 h-10 md:w-[60px] md:h-[60px]">
                 <img class="w-full h-full" src="images/bed_gold.png" alt="" />
               </figure>
               <div class="flex flex-col">
                 <span class="txtFavColor">روم سرویس</span>
-                <span class="text-[17px] text-[#adadad]"
+                <span
+                  class="text-[17px] text-[#adadad] md:text-white md:text-[22px] md:mt-3"
                   >استراحت زیر سایه رفاه</span
                 >
               </div>
             </div>
             <!-------------------------------------- drop down -------------------->
-            <figure id="dropDown4" class="w-5 h-2.5 m-3 cursor-pointer">
+            <figure
+              id="dropDown4"
+              class="w-5 h-2.5 m-3 cursor-pointer md:hidden"
+            >
               <img
                 class="w-full h-full"
                 src="images/formkit_down_gold.png"
@@ -815,7 +834,7 @@
           <!-- text paragraph -->
           <p
             id="roomServiceP"
-            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-300 ease-linear"
+            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-300 ease-linear md:opacity-100 md:mt-0"
           >
             زمانی که پس از یک روز پرمشغله، به آرامش اتاق خود بازمی‌گردید، روم
             سرویس هتل مجلل درویشی آماده است تا هر آنچه را که نیاز دارید، در لحظه
@@ -823,26 +842,30 @@
             مهیا است تا تنها دغدغه شما استراحت و لذت بردن از لحظاتتان باشد.
           </p>
         </div>
-        <!-- محل اختصاصی ویژه بازی کودکان -->
+        <!------------------------------- محل اختصاصی ویژه بازی کودکان ----------->
         <div
           id="btn5"
-          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 mt-8"
+          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 md:w-[31%] md:h-[450px] lg:h-[400px] xl:h-[300px] md:flex md:flex-col mt-8 md:p-4 md:gap-4"
         >
           <div class="flex justify-between items-center">
             <!------------------------ img and text ----------------->
-            <div class="flex items-center gap-3">
-              <figure class="w-10 h-10">
+            <div class="flex items-center gap-3 md:flex-col md:items-start">
+              <figure class="w-10 h-10 md:w-[60px] md:h-[60px]">
                 <img class="w-full h-full" src="images/game_gold.png" alt="" />
               </figure>
               <div class="flex flex-col">
                 <span class="txtFavColor">محل اختصاصی ویژه بازی کودکان</span>
-                <span class="text-[17px] text-[#adadad]"
+                <span
+                  class="text-[17px] text-[#adadad] md:text-white md:text-[22px] md:mt-3"
                   >دنیای کوچک، شادی بزرگ</span
                 >
               </div>
             </div>
             <!-------------------------------------- drop down -------------------->
-            <figure id="dropDown5" class="w-5 h-2.5 m-3 cursor-pointer">
+            <figure
+              id="dropDown5"
+              class="w-5 h-2.5 m-3 cursor-pointer md:hidden"
+            >
               <img
                 class="w-full h-full"
                 src="images/formkit_down_gold.png"
@@ -853,7 +876,7 @@
           <!-- text paragraph -->
           <p
             id="gameP"
-            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-300 ease-linear"
+            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-300 ease-linear md:opacity-100 md:mt-0"
           >
             در هتل مجلل درویشی، فضایی اختصاصی و استثنایی برای کودکان فراهم شده
             است، که تجربه‌ای متفاوت از بازی و سرگرمی را ارائه می‌دهد. این فضا با
@@ -861,26 +884,30 @@
             به‌یادماندنی فراهم می‌کند.
           </p>
         </div>
-        <!-----------  پکیج ها  ------->
+        <!-----------------------------  پکیج ها  -------------------------->
         <div
           id="btn6"
-          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 mt-8"
+          class="w-full border-[1px] border-[#323232] rounded-xl px-2 py-3 md:w-[31%] md:h-[450px] lg:h-[400px] xl:h-[300px] md:flex md:flex-col mt-8 md:p-4 md:gap-4"
         >
           <div class="flex justify-between items-center">
             <!------------------------ img and text ----------------->
-            <div class="flex items-center gap-3">
-              <figure class="w-10 h-10">
+            <div class="flex items-center gap-3 md:flex-col md:items-start">
+              <figure class="w-10 h-10 md:w-[60px] md:h-[60px]">
                 <img class="w-full h-full" src="images/gift_gold.png" alt="" />
               </figure>
               <div class="flex flex-col">
                 <span class="txtFavColor">پکیج ها</span>
-                <span class="text-[17px] text-[#adadad]"
+                <span
+                  class="text-[17px] text-[#adadad] md:text-white md:text-[22px] md:mt-3"
                   >لحظات خاص، خاطرات جاودان</span
                 >
               </div>
             </div>
             <!-------------------------------------- drop down -------------------->
-            <figure id="dropDown6" class="w-5 h-2.5 m-3 cursor-pointer">
+            <figure
+              id="dropDown6"
+              class="w-5 h-2.5 m-3 cursor-pointer md:hidden"
+            >
               <img
                 class="w-full h-full"
                 src="images/formkit_down_gold.png"
@@ -891,7 +918,7 @@
           <!-- text paragraph -->
           <p
             id="pakageP"
-            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-300 ease-linear"
+            class="opacity-0 max-h-0 text-sm text-[#939393] mt-4 duration-300 ease-linear md:opacity-100 md:mt-0"
           >
             در هر مناسبت خاص، هتل مجلل درویشی با ارائه پکیج‌های ویژه‌ای که با
             دقت و ظرافت طراحی شده‌اند، تجربه‌ای متفاوت و ماندگار را برای شما و
