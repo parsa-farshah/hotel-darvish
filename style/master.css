@@ -4,6 +4,10 @@
   font-family: "estedad";
   src: url(../fonts/Estedad-Regular.ttf);
 }
+@font-face {
+  font-family: "cinzel";
+  src: url(../fonts/Cinzel-Regular.ttf);
+}
 
 body {
   font-family: "estedad";
@@ -12,6 +16,9 @@ body {
 /* npx @tailwindcss/cli -i ./src/style/master.css -o ./src/style/output.css --watch */
 
 @layer utilities {
+  .cinzel {
+    font-family: cinzel;
+  }
   .favColor {
     @apply bg-[#7c6f55];
   }
