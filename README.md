@@ -6,7 +6,7 @@ A **complete redesign** of the Hotel Darvish website using **HTML**, **CSS**, **
   <a href="https://parsa-farshah.github.io/hotel-darvish/">
     <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2ea44f?style=for-the-badge">
   </a>
-  <img alt="Stack" src="https://img.shields.io/badge/HTML5-CSS3-Tailwind%20CSS-JS-1f6feb?style=for-the-badge">
+
   <img alt="Status" src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge">
 </p>
 
