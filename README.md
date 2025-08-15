@@ -61,7 +61,15 @@ Feel free to reach out or follow me on social media:
 -  **Email:** parsafarashah2002@gmail.com  
 -  **YouTube:** [@FrontEndFresh](https://youtube.com/@frontendfresh?si=-2WsIYe-KBTUfwyu)
 
-> 💡 Template inspired by: (https://demo.templatemonster.com/demo/439515.html)
+> 💡 Template inspired by: (https://www.darvishiroyal.com/fa)
+
+## 📸 Preview
+
+<img width="1901" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1d3f8005-9eb3-4176-8461-0e358f97a53b" />
+<img width="1901" height="1076" alt="Image" src="https://github.com/user-attachments/assets/7bcab555-0d75-4241-bf29-65ec2c8d20e8" />
+<img width="1898" height="871" alt="Image" src="https://github.com/user-attachments/assets/384a20e6-f1c1-4a7b-960c-f282d4aef2ef" />
+<img width="1904" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e4b06bd8-3be4-4833-9099-bbc2a73d130b" />
+
 
 ## 🛠️ How to Use
 
