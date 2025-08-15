@@ -67,14 +67,14 @@ Feel free to reach out or follow me on social media:
 <img src="images/cover.jpg" alt="Portfolio Overview" width="100%">
 
 ###  Desktop (3D Interactive View)  
-<img src="1.jpg" alt="Desktop 3D View" width="100%">
-<img src="1.jpg" alt="Desktop 3D View" width="100%">
+<img src="images/1.jpg" alt="Desktop 3D View" width="100%">
+<img src="images/2.jpg" alt="Desktop 3D View" width="100%">
 
 ###  Tablet View  
-<img src="2.jpg" alt="Tablet View" width="60%">
+<img src="images/3.jpg" alt="Tablet View" width="60%">
 
 ###  Mobile View  
-<img src="3.jpg" alt="Mobile View" width="45%">
+<img src="images/4.jpg" alt="Mobile View" width="45%">
 
 
 ## 🛠️ How to Use
