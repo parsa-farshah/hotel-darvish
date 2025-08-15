@@ -71,10 +71,10 @@ Feel free to reach out or follow me on social media:
 <img src="images/2.jpg" alt="Desktop 3D View" width="100%">
 
 ###  Tablet View  
-<img src="images/3.jpg" alt="Tablet View" width="60%">
+<img src="images/3.jpg" alt="Tablet View" width="100%">
 
 ###  Mobile View  
-<img src="images/4.jpg" alt="Mobile View" width="45%">
+<img src="images/4.jpg" alt="Mobile View" width="100%">
 
 
 ## 🛠️ How to Use
