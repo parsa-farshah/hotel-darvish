@@ -64,7 +64,7 @@ Feel free to reach out or follow me on social media:
 ##  Screenshots | پیش‌نمایش پروژه
 
 ###  Overview  
-<img src="cover.jpg" alt="Portfolio Overview" width="100%">
+<img src="images/cover.jpg" alt="Portfolio Overview" width="100%">
 
 ###  Desktop (3D Interactive View)  
 <img src="1.jpg" alt="Desktop 3D View" width="100%">
