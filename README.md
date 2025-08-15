@@ -63,12 +63,20 @@ Feel free to reach out or follow me on social media:
 
 > 💡 Template inspired by: (https://www.darvishiroyal.com/fa)
 
-## 📸 Preview
+##  Screenshots | پیش‌نمایش پروژه
 
-<img width="1901" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1d3f8005-9eb3-4176-8461-0e358f97a53b" />
-<img width="1901" height="1076" alt="Image" src="https://github.com/user-attachments/assets/7bcab555-0d75-4241-bf29-65ec2c8d20e8" />
-<img width="1898" height="871" alt="Image" src="https://github.com/user-attachments/assets/384a20e6-f1c1-4a7b-960c-f282d4aef2ef" />
-<img width="1904" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e4b06bd8-3be4-4833-9099-bbc2a73d130b" />
+###  Overview  
+<img src="cover.jpg" alt="Portfolio Overview" width="100%">
+
+###  Desktop (3D Interactive View)  
+<img src="1.jpg" alt="Desktop 3D View" width="100%">
+<img src="1.jpg" alt="Desktop 3D View" width="100%">
+
+###  Tablet View  
+<img src="2.jpg" alt="Tablet View" width="60%">
+
+###  Mobile View  
+<img src="3.jpg" alt="Mobile View" width="45%">
 
 
 ## 🛠️ How to Use
