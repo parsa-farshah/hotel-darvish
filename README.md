@@ -50,3 +50,23 @@ Developer
 Parsa Dehghanpour — https://www.instagram.com/parsa_dehghanpour_dv
 
 ⭐ Support
+
+## 🔗 Connect with Me
+
+Feel free to reach out or follow me on social media:
+
+-  **Instagram:** [@parsa_dehghanpour_dv](https://www.instagram.com/parsa_dehghanpour_dv?igsh=eHkwNWhsa3I4ZWVp)  
+-  **LinkedIn:** [parsa-dehghan-pour-farashah](https://linkedin.com/in/parsa-dehghan-pour-farashah-85ab04250)  
+-  **GitHub:** [parsa-farshah](https://github.com/parsa-farshah)  
+-  **Email:** parsafarashah2002@gmail.com  
+-  **YouTube:** [@FrontEndFresh](https://youtube.com/@frontendfresh?si=-2WsIYe-KBTUfwyu)
+
+> 💡 Template inspired by: (https://demo.templatemonster.com/demo/439515.html)
+
+## 🛠️ How to Use
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/team-project-2.git
+
