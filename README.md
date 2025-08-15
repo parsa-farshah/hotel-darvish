@@ -35,55 +35,8 @@ A **complete redesign** of the Hotel Darvish website using **HTML**, **CSS**, **
 
 ---
 
-## 📂 Project Structure
-hotel-darvish/
-├─ index.html
-├─ /assets
-│ ├─ /images
-│ ├─ /icons
-│ └─ /fonts
-├─ /css
-│ ├─ tailwind.css
-│ └─ styles.css
-└─ /js
-└─ main.js
-
-yaml
-Copy
-Edit
-
----
-
-## 🚀 Getting Started
-
-### 1) Clone the repository
-```bash
-git clone https://github.com/parsa-farshah/hotel-darvish.git
-cd hotel-darvish
-2) Run locally
-Option A: Open index.html in your browser.
-
-Option B: Use a local server (recommended).
-
-bash
-Copy
-Edit
-python -m http.server 5500
-Then go to http://localhost:5500
-
 📸 Screenshots
 Desktop	Mobile
-
-🔮 Roadmap
-Booking integration
-
-Multi-language (EN/FA)
-
-Interactive gallery
-
-Dark mode toggle
-
-Contact form with validation
 
 🙌 Credits
 Instructor / Mentor
